@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Exercise 01</title>
+</head>
+
+<body>
+    <h1>Hello, ComIT!</h1>
+
+    <p>This is my first paragraph.................!</p>
+
+        <h1>Ingredients:</h1>
+<ul>
+  <li>Eggs</li>
+  <li>Milk</li>
+  <li>Flour</li>
+</ul>
+</body>
+
+</html>
